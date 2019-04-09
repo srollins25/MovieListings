@@ -1,1 +1,7 @@
-
+{
+  "movies": [
+    { "id": 1, "title": "Into the Spiderverse" },
+    { "id": 2, "title": "Us" },
+    { "id": 3, "title": "Captin Marvel" }
+  ]
+}
